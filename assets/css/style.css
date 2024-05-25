@@ -1,0 +1,17 @@
+
+.container{
+	height: 300px;
+	width: 600px;
+	position: relative;
+	background: green;
+	margin: 50px auto;
+}
+.circle{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: absolute;
+	right: 35%; 
+	top: 17%;
+	background: red;
+}
